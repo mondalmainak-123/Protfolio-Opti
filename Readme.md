@@ -1,0 +1,1 @@
+Compares the performance of MVP and HRP portfolio strategies on NIFTY50 stocks.
